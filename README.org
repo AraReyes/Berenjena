@@ -2,7 +2,8 @@
 #+author: Edith Reyes
 #+date: [2019-02-19]
 Esto es una descripción. El pastel es una mentira. 
-* ¿Çómo compilar el proyecto?
+Cambios cambios. 
+* ¿Cómo compilar el proyecto?
 ** Como configurar la base de datos para que compile el proyecto
 ** ¿Qué dependencias son necesarias?
 * Estilo de configuración
