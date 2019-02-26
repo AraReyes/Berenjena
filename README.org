@@ -4,7 +4,7 @@
 Esto es una descripción. El pastel es una mentira. 
 Cambios cambios. 
 Estoy realizando mas modificaciones. 
-* ¿Cómo compilar el proyecto?}
+* ¿Cómo compilar el proyecto?
 
 El proyecto se compila como
 
