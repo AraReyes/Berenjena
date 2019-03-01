@@ -1,0 +1,2 @@
+127.0.0.1 - - [12/Feb/2019:15:46:17 -0600] "GET /mi-primer-aplicacion-web/ HTTP/1.1" 200 697 http-bio-8080-exec-1 634
+127.0.0.1 - - [12/Feb/2019:15:46:24 -0600] "POST /mi-primer-aplicacion-web/faces/hello.xhtml HTTP/1.1" 200 262 http-bio-8080-exec-2 58
